@@ -13,6 +13,9 @@ miro vendiagram
 # git config --global user.name "raf73nel"
 
 #initialize repository ctrl shift P type init.....
+# right click push and pull
+
+
 
 
 
