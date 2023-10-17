@@ -12,6 +12,9 @@ miro vendiagram
 # git config --global user.email "raf.nelissen73@gmail.com"
 # git config --global user.name "raf73nel"
 
+#initialize repository ctrl shift P type init.....
+
+
 
 
 
